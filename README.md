@@ -1,4 +1,4 @@
-#passgen
-##A simple tRNG capable password generator
+# passgen
+## A simple tRNG capable password generator
 
 
